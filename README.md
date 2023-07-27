@@ -6,7 +6,7 @@
 
 [第2章 Java基础语法](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC2%E7%AB%A0%20Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
 
-[第3章 输入输出、分支结构、循环结构]([https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC4%E7%AB%A0%20%E6%95%B0%E7%BB%84.md](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC3%E7%AB%A0%20%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E3%80%81%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84%E3%80%81%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md))
+[第3章 输入输出、分支结构、循环结构](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC3%E7%AB%A0%20%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E3%80%81%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84%E3%80%81%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md)
 
 [第4章 数组](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC4%E7%AB%A0%20%E6%95%B0%E7%BB%84.md)
 
