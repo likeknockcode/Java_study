@@ -2,7 +2,7 @@
 
 ## JAVASE学习目录
 
-[第1章 Java概述](JavaSE/第1章 Java概述.md) 
+[[第1章 Java概述]([JavaSE/第1章 Java概述.md](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC1%E7%AB%A0%20Java%E6%A6%82%E8%BF%B0.md)) ](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC1%E7%AB%A0%20Java%E6%A6%82%E8%BF%B0.md)
 
 [第2章 Java基础语法](JavaSE/第2章 Java基础语法.md)
 
