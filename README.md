@@ -2,34 +2,44 @@
 
 ## JAVASE学习目录
 
-[第1章 Java概述](JavaSE/第1章 Java概述.md)
+[第1章 Java概述](JavaSE/第1章%20Java概述.md)
 
-[第2章 Java基础语法](JavaSE/第2章 Java基础语法.md)
+[第2章 Java基础语法](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC2%E7%AB%A0%20Java%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
 
-[第3章 输入输出、分支结构、循环结构](JavaSE/第3章 输入输出、分支结构、循环结构.md)
+[第3章 输入输出、分支结构、循环结构](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC3%E7%AB%A0%20%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E3%80%81%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84%E3%80%81%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md)
 
-[第4章 数组](JavaSE/第4章 数组.md)
+[第4章 数组](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC4%E7%AB%A0%20%E6%95%B0%E7%BB%84.md)
 
-[第5章 面向对象基础（上）](JavaSE/第5章 面向对象基础（上）.md)
+[第5章 面向对象基础（上）](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC5%E7%AB%A0%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8A%EF%BC%89.md)
 
-[第6章 面向对象基础（中）](JavaSE/第6章 面向对象基础（中）.md)
+[第6章 面向对象基础（中）](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC6%E7%AB%A0%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%AD%EF%BC%89.md)
 
-[第7章 面向对象基础（下）](JavaSE/第7章 面向对象基础（下）.md)
+[第7章 面向对象基础（下）](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC7%E7%AB%A0%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%8B%EF%BC%89.md)
 
-[第8章 异常](JavaSE/第8章 异常.md)
+[第8章 异常](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC8%E7%AB%A0%20%E5%BC%82%E5%B8%B8.md)
 
-[第9章 基础API与常见算法](JavaSE/第9章 基础API与常见算法.md)
+[第9章 基础API与常见算法](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC9%E7%AB%A0%20%E5%9F%BA%E7%A1%80API%E4%B8%8E%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95.md)
 
-[第10章 集合与迭代器](JavaSE/第10章 集合与迭代器.md)
+[第10章 集合与迭代器](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC10%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E8%BF%AD%E4%BB%A3%E5%99%A8.md)
 
-[第11章 集合与泛型](JavaSE/第11章 集合与泛型.md)
+[第11章 集合与泛型](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC11%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E6%B3%9B%E5%9E%8B.md)
 
-[第12章 集合与数据结构](JavaSE/第12章 集合与数据结构.md)
+[第12章 集合与数据结构](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC12%E7%AB%A0%20%E9%9B%86%E5%90%88%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 
-[第13章 IO流](JavaSE/第13章 IO流.md)
+[第13章 IO流](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC13%E7%AB%A0%20IO%E6%B5%81.md)
 
-[第14章 Thread](JavaSE/第14章 Thread.md)
+[第14章 Thread](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC14%E7%AB%A0%20Thread.md)
 
-[第15章 网络编程](JavaSE/第15章 网络编程.md)
+[第15章 网络编程](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC15%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md)
 
-[第16章 新特性](JavaSE/第16章 新特性.md)
+[第16章 新特性](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC16%E7%AB%A0%20%E6%96%B0%E7%89%B9%E6%80%A7.md)
+
+## MySQL基础
+
+[MySQL8.0JDBC](MySQL基础/MySQL8.0JDBC.md)
+
+[MySQL8.0SQL](MySQL基础/MySQL8.0SQL.md)
+
+[MySQL8.0安装和使用文档](MySQL基础/MySQL8.0安装和使用文档.md)
+
+[MySQL8.0可视化工具Navicat的使用](MySQL基础/MySQL8.0可视化工具Navicat的使用.md)
