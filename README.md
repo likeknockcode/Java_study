@@ -33,6 +33,7 @@
 [第15章 网络编程](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC15%E7%AB%A0%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md)
 
 [第16章 新特性](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC16%E7%AB%A0%20%E6%96%B0%E7%89%B9%E6%80%A7.md)
+<<<<<<< HEAD
 
 ## MySQL基础
 
@@ -43,3 +44,5 @@
 [MySQL8.0安装和使用文档](MySQL基础/MySQL8.0安装和使用文档.md)
 
 [MySQL8.0可视化工具Navicat的使用](MySQL基础/MySQL8.0可视化工具Navicat的使用.md)
+=======
+>>>>>>> 0699e47cb844ff88b798a4ba6c9686dbd542f092
