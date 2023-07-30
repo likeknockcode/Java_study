@@ -1,6 +1,32 @@
 # JAVA学习
 
-## JAVASE学习目录
+## 目录
+
+[JAVASE](#a)
+
+[MySQL基础](#二)
+
+[Git](#三)
+
+[spring-boot](#四)
+
+[nginx](#五)
+
+[spring-cloud](#六)
+
+[RabbitMQ](#七)
+
+[elasticsearch](#八)
+
+[docker](#九)
+
+[分布式事物](#十)
+
+[Jvm虚拟机和JUC并发编程](#十一)
+
+[MySQL高级](#十二)
+
+## <a id="a">JavaSE</a>
 
 [第1章 Java概述](JavaSE/第1章%20Java概述.md)
 
@@ -34,7 +60,7 @@
 
 [第16章 新特性](https://github.com/likeknockcode/Java_study/blob/master/JavaSE/%E7%AC%AC16%E7%AB%A0%20%E6%96%B0%E7%89%B9%E6%80%A7.md)
 
-## MySQL基础
+## <a id="二">MySQL基础</a>
 
 [MySQL8.0JDBC](MySQL基础/MySQL8.0JDBC.md)
 
@@ -44,7 +70,7 @@
 
 [MySQL8.0可视化工具Navicat的使用](MySQL基础/MySQL8.0可视化工具Navicat的使用.md)
 
-## Git学习
+## <a id="三">Git</a>
 
 [1.Git概述](git/1.Git概述.md)
 
@@ -62,7 +88,7 @@
 
 [8.IDEA集成GitHub](git/8.IDEA集成GitHub.md)
 
-## spring-boot学习
+## <a id="四">spring-boot</a>
 
 [1.Spring_Boot概述与入门(掌握)](spring-boot/1.Spring_Boot概述与入门(掌握).md)
 
@@ -74,3 +100,146 @@
 
 [5.Spring_Boot其他组件(了解)](spring-boot/5.Spring_Boot其他组件(了解).md)
 
+## <a id="五">Nginx</a>
+
+[1.Nginx简介](nginx/1.Nginx简介.md)
+
+[2.Nginx安装](/nginx/2.Nginx安装.md)
+
+[3.Nginx常用的命令和配置文件](/nginx/3.Nginx常用的命令和配置文件.md)
+
+[4.Nginx配置实例-反向代理](/nginx/4.Nginx配置实例-反向代理.md)
+
+[5.Nginx配置实例-负载均衡](/nginx/5.Nginx配置实例-负载均衡.md)
+
+[6.Nginx配置实例-动静分离](/nginx/6.Nginx配置实例-动静分离.md)
+
+[7.Nginx原理与优化参数配置](/nginx/7.Nginx原理与优化参数配置.md)
+
+## <a id="六">Spring-cloud</a>
+
+[1.微服务理论](spring-cloud/1.微服务理论.md)
+
+[2.分布式概念](spring-cloud/2.分布式概念.md)
+
+[3.SpringCloud背景](spring-cloud/3.SpringCloud背景.md)
+
+[4.Eureka服务注册与发现](spring-cloud/4.Eureka服务注册与发现.md)
+
+[5.Ribbon负载均衡服务调用](spring-cloud/5.Ribbon负载均衡服务调用.md)
+
+[6.OpenFeign服务接口调用](spring-cloud/6.OpenFeign服务接口调用.md)
+
+[7.Hystrix断路器](spring-cloud/7.Hystrix断路器.md)
+
+[8.Gateway新一代网关](spring-cloud/8.Gateway新一代网关.md)
+
+[9.SpringCloud_Sleuth分布式链路请求跟踪](spring-cloud/9.SpringCloud_Sleuth分布式链路请求跟踪.md)
+
+[10.SpringCloud_Alibaba入门简介](spring-cloud/10.SpringCloud_Alibaba入门简介.md)
+
+[11.SpringCloud_Alibaba_Nacos服务注册和配置中心](spring-cloud/11.SpringCloud_Alibaba_Nacos服务注册和配置中心.md)
+
+[12.SpringCloud_Alibaba_Sentinel实现熔断与限流](spring-cloud/12.SpringCloud_Alibaba_Sentinel实现熔断与限流.md)
+
+## <a id="七">RabbitMQ</a>
+
+[1.消息中间件概述](RabbitMQ/1.消息中间件概述.md)
+
+[2.安装及配置RabbitMQ](RabbitMQ/2.安装及配置RabbitMQ.md)
+
+[3.RabbitMQ入门](RabbitMQ/3.RabbitMQ入门.md)
+
+[4.AMQP](RabbitMQ/4.AMQP.md)
+
+[5.RabbitMQ模式](RabbitMQ/5.RabbitMQ模式.md)
+
+[6.Spring_boot整合RabbitMQ](RabbitMQ/6.Spring_boot整合RabbitMQ.md)
+
+[7.RabbitMQ高级特性](RabbitMQ/7.RabbitMQ高级特性.md)
+
+[8.RabbitMQ集成微服务](RabbitMQ/8.RabbitMQ集成微服务.md)
+
+[9.消息百分百成功投递](RabbitMQ/9.消息百分百成功投递.md)
+
+[10.消息幂等性保障](RabbitMQ/10.消息幂等性保障.md)
+
+[11.RabbitMQ集群搭建](RabbitMQ/11.RabbitMQ集群搭建.md)
+
+## <a id="八">elasticsearch</a>
+
+[1.搜索概念](elasticsearch/1.搜索概念.md)
+
+[2.elasticsearch 概述](elasticsearch/2.elasticsearch概述.md)
+
+[3.elasticsearch安装](elasticsearch/3.elasticsearch安装.md)
+
+[4.elasticsearch核心概念](elasticsearch/4.elasticsearch核心概念.md)
+
+[5.elasticsearch基本操作](elasticsearch/5.elasticsearch基本操作.md)
+
+[6.DSL高级查询](elasticsearch/6.DSL高级查询.md)
+
+[7.进阶查询](elasticsearch/7.进阶查询.md)
+
+[8.java_api_操作_ES](elasticsearch/8.java_api_操作_ES.md)
+
+[9.spring_data_elasticsearch](elasticsearch/9.spring_data_elasticsearch.md)
+
+[10.elasticsearch集群](elasticsearch/10.elasticsearch集群.md)
+
+[11.分片原理](elasticsearch/11.分片原理.md)
+
+[12.优化建议](elasticsearch/12.优化建议.md)
+
+## <a id="九">docker</a>
+
+[1.Docker简介](docker/1.Docker简介.md)
+
+[2.Docker安装与启动](docker/2.Docker安装与启动.md)
+
+[3.常用命令](docker/3.常用命令.md)
+
+[4.应用部署](docker/4.应用部署.md)
+
+[5.迁移与备份](docker/5.迁移与备份.md)
+
+[6.Dockerfile](docker/6.Dockerfile.md)
+
+[7.Docker私有仓库](docker/7.Docker私有仓库.md)
+
+## <a id="十一">分布式事物</a>
+
+[1.事务回顾](分布式事物/1.事务回顾.md)
+
+[2.分布式事务](分布式事物/2.分布式事务.md)
+
+[3.分布式事务解决方案](分布式事物/3.分布式事务解决方案.md)
+
+[4.Seata案例初始化](分布式事物/4.Seata案例初始化.md)
+
+[5.Seata集成](分布式事物/5.Seata集成.md)
+
+[6.Seata之原理简介](分布式事物/6.Seata之原理简介.md)
+
+[7.分布式事务解决方案Seata](分布式事物/7.分布式事务解决方案Seata.md)
+
+## <a id="a">Jvm虚拟机和JUC并发编程</a>
+
+[Jvm虚拟机](JVM和JUC/Jvm.md)
+
+[juc并发编程-1](JVM和JUC/juc并发编程-1.md)
+
+[juc并发编程-2](JVM和JUC/juc并发编程-2.md)
+
+[juc并发编程-3](JVM和JUC/juc并发编程-3.md)
+
+## <a id="十二">MySQL高级</a>
+
+[MySQL索引结构](MySQL高级/MySQL索引结构.md)
+
+[MySQL索引优化](MySQL高级/MySQL索引优化.md)
+
+[MySQL日志以及锁](MySQL高级/MySQL日志以及锁.md)
+
+[MySQLShardingSphere5](MySQL高级/MySQLShardingSphere5.md)
